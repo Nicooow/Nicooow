@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nicow</h1>
-<h3 align="center">Passionate full-stack developer since the age of 12 and versatile electronics enthusiast since 15 (ESP32 lover), aiming to specialize in energy and home automation/IoT. Big Home Assistant lover ♥</h3>
+<h3 align="center">Passionate full-stack developer since the age of 12 and electronics enthusiast (ESP32 lover), <br>aiming to specialize in energy and home automation/IoT. Big Home Assistant lover ♥</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

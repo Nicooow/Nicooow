@@ -22,13 +22,13 @@ _and c, c#, c++, lua, php, networks (I know how DHCP works) 🌐, ..._
 ## Electronics ⚡
 
 - **Arduino / ESP32 / ESP8266** / the whole Espressif environment (C++, with PlatformIO)
-- Lover of **reverse-engineering** Chinese products (I can see you, tuya) 🔍
+- Lover of **reverse-engineering** Chinese products 🔍
 - **Home-made connected devices** for home automation 🏠
 - Ham radio/amateur radio 📻📡
 
 ## Home Automation, IoT (home and professional) 🏠🌐
 
-- **Home Assistant** contributor & lover, I manage several instances. **ESPHome, Tasmota** _semi_professional
+- **Home Assistant** contributor & lover, I manage several instances. (same for **ESPHome, Tasmota**)
 - **Zigbee, Lora/LoraWAN, Modbus, BACnet, MQTT**, ...
 - Energy analysis on **Grafana** with hundreds of data sensors in professional environments 📊
 
